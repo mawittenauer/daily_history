@@ -40,6 +40,9 @@ const Navbar = () => {
           <StyledLink to="/login">
             <StyledButton variant="outlined">Sign In</StyledButton>
           </StyledLink>
+          <StyledLink to="/logout">
+            <StyledButton variant="outlined">Logout</StyledButton>
+          </StyledLink>
         </nav>
       </StyledToolbar>
     </StyledAppBar>

@@ -26,7 +26,7 @@ const Home = () => {
     <StyledContainer component="main" maxWidth="md">
       <CssBaseline />
       <StyledHeading component="h1" variant="h3">
-        Welcome to Your Finance App
+        Welcome to Our History App
       </StyledHeading>
       {authToken ? (
         <>
@@ -35,8 +35,7 @@ const Home = () => {
         </>
       ) : (
         <>
-          <StyledFeature variant="h5">Track Your Debts, Assets, Savings, and Investments</StyledFeature>
-          <StyledFeature variant="h5">Plan for Retirement</StyledFeature>
+          <StyledFeature variant="h5">Get daily history facts sent straight to the platforms you use most!</StyledFeature>
         </>
       )}
       {/* Add more features or information as needed */}

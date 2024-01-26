@@ -1,0 +1,91 @@
+# Node modules
+node_modules/
+
+# Generated files
+build/
+dist/
+coverage/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Dependency directory
+.pnp/
+.pnp.js
+
+# Yarn integrity file
+.yarn-integrity
+
+# Prettier
+prettier.config.js
+
+# Cache directories
+.cache/
+.caches/
+
+# Next.js build output
+.next/
+out/
+
+# Nuxt.js build output
+.nuxt/
+
+# Vuepress build output
+.vuepress/dist/
+
+# TernJS port file
+.tern-port
+
+# ESLint
+.eslintcache
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Compiled Python files
+*.pyc
+
+# Compiled TypeScript
+*.tsbuildinfo
+
+# Parcel
+.cache/
+.parcel-cache/
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Generated docs
+docs/
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Yarn 2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.js
+.yarnrc.yml

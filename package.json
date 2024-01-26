@@ -1,0 +1,20 @@
+{
+  "name": "finance",
+  "version": "1.0.0",
+  "description": "Track Your Debts, Assets, Savings, Investments and plan for retirement. This is a NodeJS/React Web App",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm run start",
+    "api": "cd api && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mawittenauer/finance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mawittenauer/finance/issues"
+  },
+  "homepage": "https://github.com/mawittenauer/finance#readme"
+}
